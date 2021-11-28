@@ -27,6 +27,9 @@ body {
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+
+  /* for headings */
+  line-height: calc(1em + 0.5rem);
 }
 /*
     6. Improve media defaults
